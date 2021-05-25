@@ -1,0 +1,5 @@
+# Sort emails by size
+larger_than:2MB
+
+#Sort emails by date
+order:2018/05/06
