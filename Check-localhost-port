@@ -1,0 +1,5 @@
+# To check which task is running at a specific port number
+netstat -ano | findstr :<PORT>
+
+# To kill any specific task
+taskkill /PID <PID> /F
